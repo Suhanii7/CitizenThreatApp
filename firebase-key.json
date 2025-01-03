@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "citizenthreatapp",
+  "private_key_id": "e0a994cf8843f2fa340647d603f2b66074e4b4c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDGtBGrYrjcs8we\nb6Nh3yHP3LnXT8ZycJwBOJ1FMpe8SejE57C7ilA98p/j805wKhe45ll9xsYZ3Tg3\nWK86DlnEEY0r/TvvzeQqc238I8aenioY77w7suvfDKZei6wbga4Pcfe2yE4IkIFw\nnCLKa4GBKGwUiRQuUbm7gcVS9TVNRObFNWprLOvv+ojgtibQe58z9EFtDxJzvk4R\njlIRpUC6ORb+J2dquAqPpMKkHs9d2vqwm7KeAZOSbLm13gZCtXDymuB41gy60PL5\nhs55fMT+SQAR0Ui0smTK2RWVb3TnWwZIYlLW8lieciAkfPXuoBXrERB0bu1Hb/GF\nOFJ4l7tbAgMBAAECggEALyV+o8myzzsiDX6zp39ICIf42GunTHQHsAp81nRgqF5p\nCn9m4bi5vVkaMv4B+H8kTczqIvvM+UoSEp/KQ94v0mPPuUZGuGmD38avrAnZEL26\ng1wur4OOj8fymbBOT+B/Kk8CVa5FRabz74I8hwbnHXw32M+FqE/f3+u0pDBmS0TI\nfdFFCPzqvzJe5penma+vh5gFPRCyn35kRHXhFXdhT2sh4KStOSyIlDTfTt0AJbqO\navCkXNSxfWyBYGidKYibGVGvb2PjooJMgqKlXnD5ZbTYhfScFtCGtMZVX9KuWvj8\nYuJH8RdbKf3c8EbKRIVcf2uzknjfyWAqPKi9BI48cQKBgQD2z+UG+gSVECxIIIlp\nCD2THYEwMYoSLb6ftAFKvpzNM/rxGaczB3HjpBveeEtEdFENwoA/3oaWniKsGKkA\nXXebtCjL7UPOHoWMWvyAggXdNLv11dgvvQ3qJuDRkSSEXLNE+X4bpZkJlQia7+6K\ndolXj/0oyqmymwl0zYu6PIcQTQKBgQDOGbODxWqGauZaasnUDRHOubRHtQz1NQZv\nVLlroLsYXzfWeokhOi+zVmOHOa7hGcOLLlQXrua3guRdR7LGUBcibH8Ka1CbKLmn\nRUqoj60J2sRq9TJBo/egDlYzhKuj9hqUKzBLSbnHIPhncBdRPQaPY+58DtiV391S\n2tsoTDYORwKBgGhwSGXPXikFkvdibUL4rbWXApe2HsraeJNzxCgwyIE8wa9MP6gk\nOlktlG1rUc5Buhqsd0CPlTwe5mUUek8hPf+xGKJSYCLUX4ao6bgnTPvx2KeKOdTZ\nlw3CLdgAJwergmBpgqeIR136po2JgdMtnahj0ah1OaHOYQ3//GRuQGjxAoGAHwxu\nJ87I0oEuPLbTuvdRFHSTfS4ASrx3QLRhzp4DMZO+pLgHCpNqdjjwe4GsH8sy0zfi\ngULfDQxR/N99RjTwl0YDCX3LQeSru1BMBALJDbAAYSCZNpxOBLXENLSq6uN7c5Di\nEKWFsEL+SQ7w5FMuNtHWLqhJ5qI4BHBmDbcVeacCgYApAr0EOiAQ8dh5iFuds/le\nVpcFqv4MOA27KDyu7vPQ+6zf20Edz6j4PyNIcJr7QpQjAEseg1wIQ2KbgFyrhwUo\n/+K5aj78qwxS543/XPXnJI1CLdR3H0Loc9RlDN5TBC1oG1k7g9CpOfEQyyRshRyj\nJrQhxm6oByXp7m5gmrzokQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wvrtq@citizenthreatapp.iam.gserviceaccount.com",
+  "client_id": "111089612325087084769",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wvrtq%40citizenthreatapp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
